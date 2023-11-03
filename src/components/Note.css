@@ -1,0 +1,7 @@
+.note{
+      display: flex;
+      background-color: aqua;
+      flex-direction: column;
+      margin: 1rem;
+      min-height: 150px;
+}
