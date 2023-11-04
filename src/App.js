@@ -1,6 +1,7 @@
 import NotesList from './components/NotesList';
 import './App.css';
 
+// App
 function App() {
   return(
     <div className="app-container">
